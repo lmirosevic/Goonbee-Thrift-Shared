@@ -38,5 +38,5 @@ service BaseService {
 	/**
 	 * Check whether the service is alive or not. If so it should return the magic string "777"
 	 */
-	string alive() throws(1: GoonbeeShared.RequestError error),
+	string alive() throws(1: RequestError error),
 }
