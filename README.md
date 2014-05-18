@@ -1,7 +1,7 @@
-Goonbee Thrift Shared Service
+Goonbee Thrift Shared
 ============
 
-Shared Thrift service for Goonbee's Services
+Shared Thrift definition for Goonbee's Services
 
 
 Copyright & License
